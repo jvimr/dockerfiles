@@ -1,0 +1,22 @@
+[user]
+        name = Jindrich Vimr
+        email = jvimr@softeu.com
+[alias]
+        ci = commit
+        st = status
+        pus = push
+        pul = pull
+        a = add
+        d = rm
+        delete = rm
+        del = rm
+        co = checkout
+        br = branch
+        res = reset
+        mer = merge
+        reb = rebase
+        rb = rebase
+        pop = stash pop
+        sh = stash
+[push]
+	default = simple
