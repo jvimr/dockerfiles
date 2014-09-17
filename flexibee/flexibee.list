@@ -1,0 +1,3 @@
+# configuration for FlexiBee
+
+deb http://download.flexibee.eu/download/deb-repository/ flexibee non-free
